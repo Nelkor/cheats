@@ -1,0 +1,17 @@
+{
+  "name": "cheats",
+  "version": "1.0.0",
+  "description": "gta style cheat codes",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "keywords": [
+    "cheats",
+    "cheatcodes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nelkor/cheats.git"
+  },
+  "author": "nelkor",
+  "license": "MIT"
+}
